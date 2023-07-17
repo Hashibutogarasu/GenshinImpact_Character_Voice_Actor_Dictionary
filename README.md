@@ -1,3 +1,4 @@
 # GenshinImpact_Character_Voice_Actor_Dictionary
 原神のキャラ名をタイプすると声優が候補に乗るようになるユーザー辞書です
+
 HoYoWikiのデータを参照しています
